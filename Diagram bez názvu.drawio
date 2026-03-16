@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.3">
   <diagram name="Stránka-1" id="qZ5E4QVXZ2DjPc0FHyl9">
-    <mxGraphModel dx="2564" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3143" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="UEV5w4gky8UWhJPKBk-C-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="&lt;div&gt;ISP managed&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="20" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EQJzjMdkKVsOYysa_NIj-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="DHCP server" vertex="1">
+          <mxGeometry height="30" width="60" x="49" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
